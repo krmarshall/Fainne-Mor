@@ -1,0 +1,112 @@
+// @ts-check
+// Note: type annotations allow type checking and IDEs autocompletion
+
+const lightCodeTheme = require('prism-react-renderer/themes/github');
+const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+
+/** @type {import('@docusaurus/types').Config} */
+const config = {
+  title: 'Fainne Mor',
+  tagline: 'Homebrew Setting Documentation',
+  url: 'https://fainne-mor.netlify.app',
+  baseUrl: '/',
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+  favicon: 'img/favicon.ico',
+  organizationName: 'krmarshall', // Usually your GitHub org/user name.
+  projectName: 'Fainne-Mor', // Usually your repo name.
+
+  presets: [
+    [
+      'classic',
+      /** @type {import('@docusaurus/preset-classic').Options} */
+      ({
+        docs: {
+          sidebarPath: require.resolve('./sidebars.js'),
+        },
+        blog: {
+          path: 'changelogs',
+          routeBasePath: 'changelogs',
+          showReadingTime: true,
+          blogSidebarTitle: 'Recent Updates',
+          blogTitle: 'Changelogs',
+          blogDescription: 'Changelogs',
+          postsPerPage: 'ALL',
+          feedOptions: { type: null },
+        },
+        theme: {
+          customCss: require.resolve('./src/css/custom.css'),
+        },
+      }),
+    ],
+  ],
+
+  themeConfig:
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    ({
+      hideableSidebar: true,
+      colorMode: {
+        defaultMode: 'dark',
+      },
+      navbar: {
+        title: 'Fainne Mor',
+        logo: {
+          alt: 'Fainne Mor Logo',
+          src: 'img/siteLogoGreen.webp',
+        },
+        items: [
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'Documentation',
+          },
+          {to: '/changelogs', label: 'Changelogs', position: 'left'},
+          {
+            href: 'https://github.com/krmarshall/Fainne-Mor',
+            label: 'GitHub',
+            position: 'right',
+          },
+        ],
+      },
+      footer: {
+        style: 'dark',
+        links: [
+          {
+            title: 'Documentation',
+            items: [
+              {
+                label: 'Placeholder',
+                to: '/docs/intro',
+              },
+            ],
+          },
+          {
+            title: 'Source Code',
+            items: [
+              {
+                label: 'GitHub',
+                href: 'https://github.com/krmarshall/Fainne-Mor',
+              },
+            ],
+          },
+          {
+            title: 'Other',
+            items: [
+              {
+                label: 'Changelogs',
+                to: '/changelogs',
+              },
+              
+            ],
+          },
+        ],
+      },
+      prism: {
+        theme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
+      },
+    }),
+};
+
+module.exports = config;
