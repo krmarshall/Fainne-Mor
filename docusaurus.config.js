@@ -107,6 +107,17 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+    plugins: [
+      [require.resolve("@easyops-cn/docusaurus-search-local"), 
+        {
+          hashed: true,
+          blogRouteBasePath: 'changelogs',
+          blogDir: 'changelogs',
+          highlightSearchTermsOnTargetPage: true,
+        }
+      ]
+    ]
 };
 
 module.exports = config;
