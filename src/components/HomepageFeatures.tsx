@@ -1,49 +1,45 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
+import { useHistory } from '@docusaurus/router';
 
 type FeatureItem = {
   title: string;
   image: string;
+  href: string;
   description: JSX.Element;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    image: '/img/undraw_docusaurus_mountain.svg',
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and used to get your website up and running
-        quickly.
-      </>
-    ),
+    title: 'Custom Rules',
+    image: '/img/undraw_file_searching_re_3evy.svg',
+    href: '/doc/placeholder',
+    description: <>Reference this campaigns custom rules.</>,
   },
   {
-    title: 'Focus on What Matters',
-    image: '/img/undraw_docusaurus_tree.svg',
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go ahead and move your docs into the{' '}
-        <code>docs</code> directory.
-      </>
-    ),
+    title: 'Setting Details',
+    image: '/img/undraw_explore_re_8l4v.svg',
+    href: '/doc/placeholder',
+    description: <>Explore the settings lore, check out maps, and more.</>,
   },
   {
-    title: 'Powered by React',
-    image: '/img/undraw_docusaurus_react.svg',
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can be extended while reusing the same
-        header and footer.
-      </>
-    ),
+    title: 'Stat Blocks',
+    image: '/img/undraw_fitness_stats_sht6.svg',
+    href: '/doc/placeholder',
+    description: <>Reference stat blocks for custom creatures in the setting.</>,
   },
 ];
 
-function Feature({ title, image, description }: FeatureItem) {
+function Feature({ title, image, href, description }: FeatureItem) {
+  const history = useHistory();
+  // Wrapping the element in a <Link> messes up styling
+  const redirect = () => {
+    history.push(href);
+  };
+
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--4', styles.cursorPointer)} onClick={redirect}>
       <div className="text--center">
         <img className={styles.featureSvg} alt={title} src={image} />
       </div>
