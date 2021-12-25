@@ -1,5 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
+/* eslint-disable @typescript-eslint/no-var-requires */
+/* eslint-disable no-undef */
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
@@ -61,7 +63,7 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
-          {to: '/changelogs', label: 'Changelogs', position: 'left'},
+          { to: '/changelogs', label: 'Changelogs', position: 'left' },
           {
             href: 'https://github.com/krmarshall/Fainne-Mor',
             label: 'GitHub',
@@ -97,7 +99,6 @@ const config = {
                 label: 'Changelogs',
                 to: '/changelogs',
               },
-              
             ],
           },
         ],
@@ -108,16 +109,17 @@ const config = {
       },
     }),
 
-    plugins: [
-      [require.resolve("@easyops-cn/docusaurus-search-local"), 
-        {
-          hashed: true,
-          blogRouteBasePath: 'changelogs',
-          blogDir: 'changelogs',
-          highlightSearchTermsOnTargetPage: true,
-        }
-      ]
-    ]
+  plugins: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        hashed: true,
+        blogRouteBasePath: 'changelogs',
+        blogDir: 'changelogs',
+        highlightSearchTermsOnTargetPage: true,
+      },
+    ],
+  ],
 };
 
 module.exports = config;
