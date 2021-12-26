@@ -78,8 +78,12 @@ const config = {
             title: 'Documentation',
             items: [
               {
-                label: 'Placeholder',
+                label: 'Introduction',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Sources / Inspiration',
+                to: '/docs/sources',
               },
             ],
           },

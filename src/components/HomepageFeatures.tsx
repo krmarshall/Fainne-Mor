@@ -14,19 +14,19 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Homebrew Rules',
     image: '/img/undraw_file_searching_re_3evy.svg',
-    href: '/doc/placeholder',
+    href: '/docs/rules/placeholder',
     description: <>Reference this campaigns custom rules.</>,
   },
   {
     title: 'Setting Details',
     image: '/img/undraw_explore_re_8l4v.svg',
-    href: '/doc/placeholder',
+    href: '/docs/setting/placeholder',
     description: <>Explore the settings lore, check out maps, and more.</>,
   },
   {
     title: 'Stat Blocks',
     image: '/img/undraw_fitness_stats_sht6.svg',
-    href: '/doc/placeholder',
+    href: '/docs/statblocks/placeholder',
     description: <>Reference stat blocks for custom creatures in the setting.</>,
   },
 ];
