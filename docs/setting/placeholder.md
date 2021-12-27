@@ -1,6 +1,7 @@
 ---
 id: placeholder
 title: Placeholder
+sidebar_position: 1
 ---
 
 # Placeholder
