@@ -25,8 +25,8 @@ const CheckDMToken = () => {
     <Layout>
       <div className={styles.centerDiv}>
         <h3>
-          If you are a player and not the DM this is a restricted page containing campaign spoilers or general DM notes.
-          Please enter the correct pass phrase or leave the page.
+          This is a restricted page containing campaign spoilers or general DM notes. Please enter the correct pass
+          phrase or leave the page.
         </h3>
         <input
           className={styles.input}

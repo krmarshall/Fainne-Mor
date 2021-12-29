@@ -2,34 +2,20 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome to Fainne Mor
 
-Let's discover **Docusaurus in less than 5 minutes**.
+### [Homebrew Rules](/docs/rules/intro)
 
-## Getting Started
+This campaign features some homebrew rules mainly to mitigate some of the issues and balance that have cropped up in 5e over the years. Also listed are explicitly allowed source materials and variant rules. If you cant find the answers to anything just shoot me a message.
 
-Get started by **creating a new site**.
+### [Setting Details](/docs/setting/intro)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+This campaign is placed in a custom setting heavily inspired by Warhammer 40k, The Rise of Endymion by Dan Simmons, and Warhammer Fantasy. See details about the world, factions, its history, maps, and more.
 
-## Generate a new site
+### [DM Notes](/docs/dmnotes/intro)
 
-Generate a new Docusaurus site using the **classic template**:
+Don't be nosy. Contains plans, stat blocks, and general spoilers for the campaign. These are walled behind basically a piece of paper for security (docusaurus isn't really made to hide documentation), but I'm trusting you all not to go snooping too hard. I'll do my best to move relevant documentation, stat blocks, ect to visible categories when they get revealed in the campaign.
 
-```shell
-npm init docusaurus@latest my-website classic
-```
+### [Sources / Inspiration](/docs/sources)
 
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+If you want to find the sources of any images or where the inspiration for specific elements are from see the Sources page.

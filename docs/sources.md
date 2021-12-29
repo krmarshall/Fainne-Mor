@@ -6,9 +6,9 @@ sidebar_position: 9
 
 ## Image Sources
 
-Logo: [CarStickers](https://www.carstickers.com/products/stickers/medieval-and-mythical-stickers/celtic-knot-car-stickers-decals/details/celtic-knot-on-circle-sticker-2690/)
+Logo/Favicon: [CarStickers](https://www.carstickers.com/products/stickers/medieval-and-mythical-stickers/celtic-knot-car-stickers-decals/details/celtic-knot-on-circle-sticker-2690/)
 
-Homepage svg's: [unDraw](https://undraw.co/)
+Homepage and 404 SVG's: [unDraw](https://undraw.co/)
 
 
 ## Inspiration
