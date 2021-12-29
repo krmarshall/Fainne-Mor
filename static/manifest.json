@@ -1,0 +1,28 @@
+{
+  "name":"Fainne Mor",
+  "short_name":"Fainne Mor",
+  "theme_color":"#148526",
+  "background_color":"#18191a",
+  "display":"minimal-ui",
+  "scope": "./",
+  "start_url": "./index.html",
+  "id": "/index.html",
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://fainne-mor.netlify.app/site.webmanifest"
+    }
+  ],
+  "icons": [
+    {
+      "src":"./img/logos/android-chrome-192x192.png",
+      "sizes":"192x192",
+      "type":"image/png"
+    },
+    {
+      "src":"./img/logos/android-chrome-512x512.png",
+      "sizes":"512x512",
+      "type":"image/png"
+    }
+  ]
+}
