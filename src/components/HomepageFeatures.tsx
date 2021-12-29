@@ -24,10 +24,10 @@ const FeatureList: FeatureItem[] = [
     description: <>Explore the settings lore, check out maps, and more.</>,
   },
   {
-    title: 'Stat Blocks',
-    image: '/img/undraw_fitness_stats_sht6.svg',
-    href: '/docs/statblocks/placeholder',
-    description: <>Reference stat blocks for custom creatures in the setting.</>,
+    title: 'DM Notes',
+    image: '/img/undraw_programming_re_kg9v.svg',
+    href: '/docs/dmnotes/placeholder',
+    description: <>DM notes, statblocks, plans, or other spoiler containing documents.</>,
   },
 ];
 

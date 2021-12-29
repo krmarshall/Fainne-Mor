@@ -14,7 +14,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logos/favicon.ico',
   organizationName: 'krmarshall', // Usually your GitHub org/user name.
   projectName: 'Fainne-Mor', // Usually your repo name.
 
@@ -54,7 +54,7 @@ const config = {
         title: 'Fainne Mor',
         logo: {
           alt: 'Fainne Mor Logo',
-          src: 'img/siteLogoGreen.webp',
+          src: 'img/logos/siteLogoGreen.webp',
         },
         items: [
           {
