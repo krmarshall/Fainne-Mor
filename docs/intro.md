@@ -1,10 +1,9 @@
 ---
 sidebar_position: 1
+title: Welcome to Fainne Mor
 ---
 
-# Welcome to Fainne Mor
-
-### [Homebrew Rules](/docs/rules/intro)
+### [Homebrew Rules](/docs/rules/sources)
 
 This campaign features some homebrew rules mainly to mitigate some of the issues and balance that have cropped up in 5e over the years. Also listed are explicitly allowed source materials and variant rules. If you cant find the answers to anything just shoot me a message.
 

@@ -1,9 +1,6 @@
 ---
-id: sources
 title: Allowed/Banned Sources
 ---
-
-## Sources
 
 ### Allowed
 - Players Handbook
