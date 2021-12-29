@@ -107,6 +107,10 @@ const config = {
           },
         ],
       },
+      tableOfContents: {
+        minHeadingLevel: 2,
+        maxHeadingLevel: 4,
+      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
@@ -152,7 +156,7 @@ const config = {
           {
             tagName: 'meta',
             name: 'apple-mobile-web-app-status-bar-style',
-            content: '#000',
+            content: '#18191a',
           },
           {
             tagName: 'link',
@@ -167,7 +171,7 @@ const config = {
           {
             tagName: 'meta',
             name: 'msapplication-TileColor',
-            content: '#000',
+            content: '#18191a',
           },
         ],
       },
