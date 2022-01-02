@@ -13,7 +13,11 @@ title: General Rules
 - Level 1 characters start with 2 Hit Dice and equivalent hit points of a level 2 character. When characters reach level 2, they dont gain hit points or a hit die. (If you multiclass out of level 1 swap your 2nd hit die and corresponding hit points accordingly.)
 
 ### High Level Martials
-- When you reach a combined total of 11 levels (and again at 15 and 20 levels) in the following classes, you gain an additional ASI or Feat: Barbarian, Fighter, Monk, Rogue, and three quarters of any Ranger levels (rounded down). For example, without any multiclassing, a Ranger will gain their first additional ASI at level 15 (15 * 0.75 = 11).
+- When you reach a combined total of 11 levels (and again at 15 and 20 levels) in the following classes, you gain an additional ASI or Feat: Barbarian, Fighter, Monk, Rogue, and three quarters of any Artificer, Paladin, and Ranger levels (rounded down). For example, without any multiclassing, a Ranger will gain their first additional ASI at level 15 (15 * 0.75 = 11).
+
+### Stickier Martials
+Part of melee martials enhanced role will be to control their engagement space better through the use of Sentinel.
+- When you reach a combined total of 5 levels in the following classes you gain the Sentinel feat: Barbarian, Fighter, Monk, Rogue, and three quarters of any Artificer, Paladin, and Ranger levels (rounded down). For example, without any multiclassing, a ranger will gain the Sentinel feat as level 7 (7 * 0.75 = 5.25).
 
 ## Combat
 ### Potions
@@ -26,6 +30,12 @@ title: General Rules
 | Greater Healing | 20 |
 | Superior Healing | 40 |
 | Supreme Healing | 60 |
+
+### Opportunity Attacks
+The other part of enhancing melee martials role, for them to adequately control their engagement space they need to be able to hold more than 1 creature in place.
+- Opportunity Attacks from creatures moving away from you do not require a reaction. 
+- War Caster still requires a reaction to cast a spell instead of attacking.
+- Polearm Master's opportunity attack from a creature entering your reach still requires a reaction.
 
 ### Movement
 - Moving through an allies space is not difficult terrain.
