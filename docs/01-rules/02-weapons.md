@@ -7,11 +7,13 @@ title: Weapons
 ### Melee Weapons
 
 #### Shortsword
+Rapier being the only d8 finesse weapon is boring.
 - Damage increased from 1d6 to 1d8 piercing.
 
 ### Ranged Weapons
 
 #### Net
+Nets are balanced to be useless at all times, these changes shouldn't make nets insane, but at least be a potential option in T1/maybe T2 of play.
 - Thrown range increased from 5/15 to 10/20.
 - Special rules reworked, read below. (Increased size limit, changed breakout saving throw, nets don't break, can multi attack)
 - A Huge or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are form less, or creatures that are Gargantuan. A creature can use its action to make a Strength check of DC 8 + your proficiency, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect. When you use an action, bonus action, or reaction to attack with a net, if you’re able to make multiple attacks with that Attack, this Attack replaces one of them.
@@ -19,14 +21,16 @@ title: Weapons
 ## New Weapons
 
 ### Firearms
+One of 5e's biggest issues is the martial/caster disparity. With martials being able to keep up in single target damage, but losing horribly on AoE and in/out of combat utility. Instead of trying to overhaul significant aspects of the game to give every martial more utility I want to take a page from other tabletop systems and lean in to roles a little bit more. Casters will still have the utility and AoE, but ranged martials will specialize in high single target damage. We will get to melee martials a bit later.
+
 | Weapon | Cost | Damage | Weight | Properties |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Handgonne | - | 2d6 piercing | 3 lb. | Ammunition (range 40/120), reload (10 shots), two-handed |
-| Drakegonne | - | 4d4 piercing | 7 lb. | Ammunition (range 15/45), reload (2 shots), two-handed |
-| Thundergonne | - | 3d6 piercing | 8 lb. | Ammunition (range 80/240), reload (10 shots), two-handed |
-| Longgonne | - | - | 10 lb. | Ammunition (range 30/120/360), reload (1 shot), two-handed, special |
+| Hand Cannon | - | 2d6 piercing | 3 lb. | Ammunition (range 40/120), reload (10 shots), two-handed |
+| Drake Gun | - | 4d4 piercing | 7 lb. | Ammunition (range 15/45), reload (2 shots), two-handed |
+| Thunder Gun | - | 3d6 piercing | 8 lb. | Ammunition (range 80/240), reload (10 shots), two-handed |
+| Long Gun | - | - | 10 lb. | Ammunition (range 30/120/360), reload (1 shot), two-handed, special |
 | Ammunition |
-| Bullets (10) | 3gp | - | 2 lb. | Standard Ammunition used by the Handgonne, Drakegonne, and Thundergonne |
+| Bullets (10) | 3gp | - | 2 lb. | Standard Ammunition used by the Hand Cannon, Drake Gun, and Thunder Gun |
 
 #### Ammunition
 The ammunition of a firearm is destroyed upon use, firearms use bullets as ammunition.
@@ -34,8 +38,8 @@ The ammunition of a firearm is destroyed upon use, firearms use bullets as ammun
 #### Reload
 A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice).
 
-#### Longgonne
-A particularly unwieldy weapon, attacks with the Longgonne while you are not prone have disadvantage. It also uses a special range profile seen below. The Sharpshooter feat only mitigates the long range profile, not the short range profile.
+#### Long Gun
+A particularly unwieldy weapon, attacks with the Long Gun have disadvantage if you have moved this turn, and after making an attack with it your speed is 0 until the end of the current turn. It also uses a special range profile seen below. The Sharpshooter feat only mitigates the long range profile, not the short range profile.
 
 | Range | Attack Type |
 | ----------- | ----------- |
@@ -43,7 +47,7 @@ A particularly unwieldy weapon, attacks with the Longgonne while you are not pro
 | Between 30ft and 120ft | Standard |
 | Greater than or equal to 120ft | Disadvantage |
 
-The Longgonne uses special oversized ammunition that must be loaded 1 round at a time. Your ammunition options are listed below:
+The Long Gun uses special oversized ammunition that must be loaded 1 round at a time. Your ammunition options are listed below:
 
 | Ammunition | Cost | Damage | Weight | Effects |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
