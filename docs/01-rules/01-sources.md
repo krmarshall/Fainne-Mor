@@ -1,5 +1,5 @@
 ---
-title: Allowed/Banned Sources
+title: Allowed/Banned Material
 ---
 
 ### Allowed
@@ -11,6 +11,10 @@ title: Allowed/Banned Sources
 ### Ask Me
 - Guildmasters Guide to Ravnica (Items)
 - Unearthed Arcana (If it hasn't been reprinted in other source books)
+
+### Unavailable Pending Story
+- Warforged Player Race
+- Orc and Half Orc Player Races
 
 ### Banned
 - Acquisitions Incorporated
