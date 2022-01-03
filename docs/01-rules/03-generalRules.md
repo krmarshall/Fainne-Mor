@@ -62,11 +62,3 @@ Instead of any bonus action spell (cantrip or not) preventing you from casting a
 
 ### Taking 20
 - If you have 10x as much time available as a task would normally take, and have the opportunity to try multiple different solutions, you can "take 20" instead of rolling a d20, adding your modifiers as normal (advantage and disadvantage have no effect). You are not able to do this when your character is threatened or distracted. This represents your characters aptitude in the best of circumstances.
-
-## Resting
-### Short Rests
-- Required duration reduced from 1 hour to 10 minutes.
-
-### Long Rests
-- When a character long rests in an unsafe or unknown area (wilderness, dungeon, ect.) they may only recover one of the following options: half your total hit dice (rounded down, minimum of one), all your spell slots, or all of your other long rest recharging abilities/features. Any ability/feature that recharges on a short or long rest is recovered normally.
-- Long rests in safe locations like cities and towns are unchanged.
