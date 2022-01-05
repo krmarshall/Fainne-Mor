@@ -12,12 +12,18 @@ title: General Rules
 ### Level 1 Hitpoints
 - Level 1 characters start with 2 Hit Dice and equivalent hit points of a level 2 character. When characters reach level 2, they dont gain hit points or a hit die. (If you multiclass out of level 1 swap your 2nd hit die and corresponding hit points accordingly.)
 
-### High Level Martials
+### Able Martials
 - When you reach a combined total of 11 levels (and again at 15 and 20 levels) in the following classes, you gain an additional ASI or Feat: Barbarian, Fighter, Monk, Rogue, and three quarters of any Artificer, Paladin, and Ranger levels (rounded down). For example, without any multiclassing, a Ranger will gain their first additional ASI at level 15 (15 * 0.75 = 11).
 
 ### Stickier Martials
 Part of melee martials enhanced role will be to control their engagement space better through the use of Sentinel.
-- When you reach a combined total of 5 levels in the following classes you gain the Sentinel feat: Barbarian, Fighter, Monk, Rogue, and three quarters of any Artificer, Paladin, and Ranger levels (rounded down). For example, without any multiclassing, a ranger will gain the Sentinel feat as level 7 (7 * 0.75 = 5.25).
+- When you reach a combined total of 6 levels in the following classes you gain the Sentinel feat: Barbarian, Fighter, Monk, Rogue, and three quarters of any Artificer, Paladin, and Ranger levels (rounded down). For example, without any multiclassing, a ranger will gain the Sentinel feat at level 8 (8 * 0.75 = 6).
+
+### Skilled Martials
+- When you reach a combined total of 4 levels in the following classes, you gain proficiency in one skill from your classes available skill proficiencies: Barbarian, Fighter, Monk, Rogue, Artificer, Paladin, and Ranger.
+
+### Expert Martials
+- When you reach a combined total of 8 levels in the following classes, you gain expertise in one of your proficient skills: Barbarian, Fighter, Monk, Rogue, Artificer, Paladin, and Ranger.
 
 ## Combat
 ### Potions
