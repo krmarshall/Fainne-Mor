@@ -6,8 +6,13 @@ Adapted From [Caesars House of the Fifth](https://drive.google.com/file/d/1qp2IC
 
 ## Using a Map
 These rules assume that the group is using a map, and that the map can be divided into hexes (or another shape). Each hex contains one of the following environments: 
+
 **Environment Types.** Roads, Grassland, Coastal, Desert, Arctic, Underdark, Swamp, Hills, Forest, Mountains, Water, Urban. 
+
 **Cities.** Any location in a city can usually be reached within one day, but getting lost and completing activities is still possible. The random encounter table is modified for cities.
+
+
+
 
 ## Time
 Travel is tracked in days and hexes. One set of rolls is made per day, and a number of hexes will be traversed per day depending on the environment, the mode of travel, and whether the party pushes themselves.
@@ -16,6 +21,9 @@ Travel is tracked in days and hexes. One set of rolls is made per day, and a num
 Whenever you sleep in the wilderness, you cannot benefit from a long rest. This includes somewhere temporary like a cave or tent, or other squalid conditions. Long rests require at least poor conditions: safe and comfortable places like a wizard’s tower, a permanent and maintained treehouse, or a secure room safe from the weather and wandering monsters.
 
 For more comprehensive rules on resting see [here](./06-resting.md)
+
+
+
 
 ## Travel Procedure
 Each day the party travels through a region, perform the following steps: 
@@ -69,6 +77,9 @@ The party can reasonably travel for 8 hours each day. The number of hexes that c
 
 **Rotating Shifts.** If the party is travelling on a vehicle large enough for them to rest, and the creatures operating the vehicle (such as horses, oarsmen, boiler room workers, or captain) can change at least every 8 hours, the party can travel for 24 hours a day.
 
+
+
+
 ## Travel Activities
 This section outlines the activities that a character can perform while travelling. Each character can perform one activity per day. 
 
@@ -95,13 +106,11 @@ You forage for food and water. The DC is determined by the environment the party
 **Example Proficiencies.** Intelligence or Wisdom (Survival or Nature).
 
 :::note Don't Track Rations - Just Track Water
-
 Water is heavier and more vital than rations. 10 pounds of water is required each day, compared to 2 pounds of food, and a few days without water can be deadly.
 
 Assume that the party can travel with 3 days worth of water per person. If they have a vehicle (or mount) carrying a barrel of water, the party has a week’s worth of water. This rule-of-thumb is enough to make foraging both simpler and more important. 
 
 ~~To prevent water being trivial to acquire, magic below 3rd level cannot provide hydration.~~
-
 :::
 
 ### Search
