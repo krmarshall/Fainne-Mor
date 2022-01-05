@@ -20,3 +20,7 @@ Many aspects from the Orcs, Dwarves, and Elves are inspired by Warhammer Fantasy
 ## House Rules
 
 A lot of house rules were taken or adapted from [Caesars House of the Fifth](https://drive.google.com/file/d/1qp2IC_nsS6HBCS8B2_Wmq1X7JH60_Txr/view)
+
+## Travel and Resting
+
+Large portions of travel and rest rules are adapted from/inspired by both [Caesars House of the Fifth](https://drive.google.com/file/d/1qp2IC_nsS6HBCS8B2_Wmq1X7JH60_Txr/view) and Adventures In Middle Earth (Out of Print and can't find a publisher page to link?)
