@@ -1,4 +1,4 @@
-.features {
+.featureSection {
   display: flex;
   align-items: center;
   padding: 2rem 0;
@@ -7,9 +7,15 @@
 
 .featureSvg {
   height: 200px;
-  width: 200px;
+  margin-top: 1rem;
 }
 
-.cursorPointer {
+.feature {
   cursor: pointer;
+  border-radius: 1rem;
+}
+
+.feature:hover {
+  background-color: #242526;
+  
 }

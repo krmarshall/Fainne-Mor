@@ -33,7 +33,7 @@ function Feature({ title, image, href, description }: FeatureItem) {
   };
 
   return (
-    <div className={clsx('col col--4', styles.cursorPointer)} onClick={redirect}>
+    <div className={clsx('col col--6', styles.feature)} onClick={redirect}>
       <div className="text--center">
         <img className={styles.featureSvg} alt={title} src={image} />
       </div>
@@ -47,7 +47,7 @@ function Feature({ title, image, href, description }: FeatureItem) {
 
 export default function HomepageFeatures(): JSX.Element {
   return (
-    <section className={styles.features}>
+    <section className={styles.featureSection}>
       <div className="container">
         <div className="row">
           {FeatureList.map((props, idx) => (
