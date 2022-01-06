@@ -17,9 +17,9 @@ Star tree concept and the corrupted framework of Catholicism are largely from Da
 
 Many aspects from the Orcs, Dwarves, and Elves are inspired by Warhammer Fantasy / 40K.
 
-## House Rules
+## Homebrew Rules
 
-A lot of house rules were taken or adapted from [Caesars House of the Fifth](https://drive.google.com/file/d/1qp2IC_nsS6HBCS8B2_Wmq1X7JH60_Txr/view)
+A lot of homebrew rules were taken or adapted from [Caesars House of the Fifth](https://drive.google.com/file/d/1qp2IC_nsS6HBCS8B2_Wmq1X7JH60_Txr/view)
 
 ## Travel and Resting
 

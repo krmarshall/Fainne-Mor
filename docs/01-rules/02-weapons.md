@@ -7,22 +7,20 @@ title: Weapons
 ### Melee Weapons
 
 #### Shortsword
-Rapier being the only d8 finesse weapon is boring.
 - Damage increased from 1d6 to 1d8 piercing.
 
 ### Ranged Weapons
 
 #### Net
-Nets are balanced to be useless at all times, these changes shouldn't make nets insane, but at least be a potential option in T1/maybe T2 of play.
 - Thrown range increased from 5/15 to 10/20.
-- Special rules reworked, read below. (Increased size limit, changed breakout saving throw, nets don't break, can multi attack)
+
+- Special rules reworked, read below: (Increased size limit, changed breakout saving throw, nets don't break, can multi attack)
+
 - A Huge or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are form less, or creatures that are Gargantuan. A creature can use its action to make a Strength check of DC 8 + your proficiency, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect. When you use an action, bonus action, or reaction to attack with a net, if you’re able to make multiple attacks with that Attack, this Attack replaces one of them.
 
 ## New Weapons
 
 ### Firearms
-One of 5e's biggest issues is the martial/caster disparity. With martials being able to keep up in single target damage, but losing horribly on AoE and in/out of combat utility. Instead of trying to overhaul significant aspects of the game to give every martial more utility I want to take a page from other tabletop systems and lean in to roles a little bit more. Casters will still have the utility and AoE, but ranged martials will specialize in high single target damage. We will get to melee martials a bit later.
-
 | Weapon | Cost | Damage | Weight | Properties |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Hand Cannon | - | 2d6 piercing | 3 lb. | Ammunition (range 40/120), reload (10 shots), two-handed |
