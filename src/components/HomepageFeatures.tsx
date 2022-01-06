@@ -23,12 +23,6 @@ const FeatureList: FeatureItem[] = [
     href: '/docs/setting/placeholder',
     description: <>Explore the settings lore, check out maps, and more.</>,
   },
-  {
-    title: 'DM Notes',
-    image: '/img/undraw_programming_re_kg9v.svg',
-    href: '/docs/dmnotes/placeholder',
-    description: <>DM notes, statblocks, plans, or other spoiler containing documents.</>,
-  },
 ];
 
 function Feature({ title, image, href, description }: FeatureItem) {
