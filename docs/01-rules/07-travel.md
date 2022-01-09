@@ -85,7 +85,7 @@ This section outlines the activities that a character can perform while travelli
 
 **Rangers.** Rangers can perform two activities. 
 
-**Outlander Background.** The Wanderer feature is replaced with the following: "In addition to your normal choice of activity when travelling, you can perform the Navigate or Forage activity." 
+**Outlander Background.** The Wanderer feature is replaced with the following: "In addition to your normal choice of activity when travelling or camping, you can perform the Navigate, Forage, or Set Up activity." 
 
 **DCs.** DCs are determined using two tables: Activity DCs and Activity DC Modifiers. 
 
@@ -123,7 +123,7 @@ You are tracking a creature or searching for something. Regardless of what you a
 ### Support - NEEDS REWORK
 You help the party handle the wilderness with supporting tasks like preparing meals or alcohol, tending to injuries, or repairing shoes or gear. 
 
-The DC is 10 + the average party level. On a success, the party does not lose a Hit Die for sleeping in the wild that day, and other party members can add a d4 to their Activity checks. 
+The DC is 10 + the average party level. On a success, the party gains a hit die while sleeping in the wild that day, and other party members can add a d4 to their Activity checks. 
 
 **Example Proficiencies.** Intelligence or Wisdom (Medicine, Cook’s Utensils or Brewer’s Supplies), Intelligence or Strength (Cobbler’s Tools), Intelligence or Dexterity (Weaver’s Tools).
 

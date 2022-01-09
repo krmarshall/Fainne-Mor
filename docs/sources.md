@@ -1,6 +1,6 @@
 ---
 id: sources
-title: Sources / Inspiration
+title: Sources
 sidebar_position: 9
 ---
 
