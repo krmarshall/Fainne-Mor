@@ -27,7 +27,7 @@ If a large-scale event occurs, the party can change route, avoiding that hex but
 | 1 | Bandits, assassins, or other creatures surround, threaten, and/or ambush the party. If in doubt, use the Urban Encounter tables on p.110-112 of XGE. |
 | 2 | The party sees humanoids or monsters attacking a caravan, homestead, settlement, or other group. Choose creatures from the appropriate hex terrain table or from the urban table. |
 | 3 | Another group of adventurers is travelling through the region, perhaps on the same quest, or a quest the party declined. |
-| 4 | A messenger (humanoid or otherwise) travels with news, either for a town, a leader, or the party.--- |
+| 4 | A messenger (humanoid or otherwise) travels with news, either for a town, a leader, or the party. |
 | 5 | An experienced merchant, nomad or hermit has specialty goods for sale at half their normal value, such as poisons, silver or adamantine weapons, gnomish contraptions, or uncommon beasts. |
 | 6 | An experienced spellcaster, perhaps travelling or living in isolation, has spell scrolls and magic items for sale at half their normal value. If in doubt, use the “Buying a Magic Item" downtime rules on p.126 of XGE. To simplify it, roll 4 items on Table F on p.146 of the DMG. |
 

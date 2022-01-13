@@ -64,14 +64,14 @@ You ensure the camp maintains as low a profile as possible. Ensuring the fire is
 #### Support - NEEDS REWORK
 You help the party handle the wilderness with supporting tasks like preparing meals or alcohol, tending to injuries, or repairing shoes or gear. 
 
-The DC is 10 + the average party level. On a success, the party gains a hit die while sleeping in the wild that day, and other party members can add a d4 to their Activity checks. 
+The DC is 10 + the average party level, with a maximum of +10. On a success, the party gains a hit die while sleeping in the wild that day, and other party members can add a d4 to their Activity checks. 
 
 **Example Proficiencies.** Intelligence or Wisdom (Medicine, Cook’s Utensils or Brewer’s Supplies), Intelligence or Strength (Cobbler’s Tools), Intelligence or Dexterity (Weaver’s Tools).
 
 #### Motivate - NEEDS REWORK
 You motivate the party to keep up morale by playing music, coaching, persuading or intimidating the party. 
 
-The DC is 10 + the average party level. On a success, -- DO SOMETHING --, and players can add a d4 to any initiative checks that day. 
+The DC is 10 + the average party level, with a maximum of +10. On a success, -- DO SOMETHING --, and players can add a d4 to any initiative checks that day. 
 
 **Example Proficiencies.** Charisma (Persuasion), Strength or Charisma (Intimidate or Athletics), Wisdom or Charisma (Musical Instrument).
 
@@ -106,3 +106,26 @@ Each day, you gather materials from the environment and craft one of the followi
 
 **Special material.** At the DM’s discretion, you can also gather materials to craft other things, though some may take longer than a day to make or require more materials.
 
+### Activity DCs - COULD USE A RETUNE
+| Environment   | Set Up    | Forage  | Hunker Down | Ink | Potion  | Poison  | Protection  | Weapon  |
+| ---           | ---       | ---     | ---         | --- | ---     | ---     | ---         | ---     |
+| Roads         | 15        | 10      | 20          | 20  | 20      | 20      | 15          | 15      |
+| Grassland     | 15        | 5       | 15          | 15  | 15      | 15      | 15          | 15      |
+| Coastal       | 10        | 10      | 10          | 10  | 15      | 10      | 15          | 15      |
+| Desert        | 20        | 25      | 15          | 20  | 20      | 15      | 20          | 20      |
+| Arctic        | 20        | 20      | 15          | 15  | 20      | 20      | 20          | 15      |
+| Underdark     | 15        | 15      | 15          | 10  | 15      | 10      | 15          | 20      |
+| Swamp         | 15        | 10      | 10          | 10  | 10      | 10      | 15          | 15      |
+| Hills         | 10        | 10      | 10          | 20  | 15      | 15      | 10          | 10      |
+| Forest        | 10        | 5       | 15          | 15  | 10      | 10      | 10          | 10      |
+| Mountains     | 20        | 20      | 15          | 20  | 20      | 20      | 15          | 15      |
+| Mountain Path | 15        | 20      | 20          | 20  | 20      | 20      | 20          | 20      |
+| Water         | 15        | 15      | 15          | 10  | 10      | 10      | 20          | 20      |
+| Urban         | 15        | N/A     | 10          | 25  | 25      | 25      | 25          | 25      |
+
+#### Activity DC Modifiers - COULD USE A RETUNE
+| Modifier | DC |
+| --- | --- |
+| Lightly obscured (eg. rain, torchlight, darkvision) | +5 |
+| Heavily obscured (eg. night, heavy fog) | +10 |
+| Magical Influences (eg. fey, celestial, demonic) | +/- 5 |

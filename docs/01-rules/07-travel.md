@@ -123,14 +123,14 @@ You are tracking a creature or searching for something. Regardless of what you a
 ### Support - NEEDS REWORK
 You help the party handle the wilderness with supporting tasks like preparing meals or alcohol, tending to injuries, or repairing shoes or gear. 
 
-The DC is 10 + the average party level. On a success, the party gains a hit die while sleeping in the wild that day, and other party members can add a d4 to their Activity checks. 
+The DC is 10 + the average party level, with a maximum of +10. On a success, the party gains a hit die while sleeping in the wild that day, and other party members can add a d4 to their Activity checks. 
 
 **Example Proficiencies.** Intelligence or Wisdom (Medicine, Cook’s Utensils or Brewer’s Supplies), Intelligence or Strength (Cobbler’s Tools), Intelligence or Dexterity (Weaver’s Tools).
 
 ### Motivate - NEEDS REWORK
 You motivate the party to keep the pace up by playing music, coaching, persuading or intimidating the party. 
 
-The DC is 10 + the average party level. On a success, the first 3 hours of a forced march that day don’t cost Hit Dice, and players can add a d4 to any initiative checks that day. 
+The DC is 10 + the average party level, with a maximum of +10. On a success, the first 3 hours of a forced march that day don’t cost Hit Dice, and players can add a d4 to any initiative checks that day. 
 
 **Example Proficiencies.** Charisma (Persuasion), Strength or Charisma (Intimidate or Athletics), Wisdom or Charisma (Musical Instrument).
 
