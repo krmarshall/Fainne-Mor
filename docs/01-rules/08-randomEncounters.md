@@ -31,9 +31,9 @@ If a large-scale event occurs, the party can change route, avoiding that hex but
 | 5 | An experienced merchant, nomad or hermit has specialty goods for sale at half their normal value, such as poisons, silver or adamantine weapons, gnomish contraptions, or uncommon beasts. |
 | 6 | An experienced spellcaster, perhaps travelling or living in isolation, has spell scrolls and magic items for sale at half their normal value. If in doubt, use the “Buying a Magic Item" downtime rules on p.126 of XGE. To simplify it, roll 4 items on Table F on p.146 of the DMG. |
 
-### Environment Hazards
+## Environment Hazards
 
-#### Environment Hazard Table
+### Environment Hazard Table
 | d6 | 1-2 | 3-4 | 5-6 |
 | --- | --- | --- | --- |
 | Roads | Storm | Flash Flood | Nothing |
@@ -58,50 +58,50 @@ A variety of dilemmas can come up while travelling, just from the environment al
 
 **Hazard XP.** If your group is playing with XP earned from encounters, surviving any of the hazards presented here is equivalent to overcoming a Medium Difficulty encounter, no matter how well or poorly the hazard is handled.
 
-#### List of Hazards
+### List of Hazards
 The rules for each type of hazard are outlined below. Some just require saving throws, while others are open-ended puzzles.
 
-##### Wide River or Canyon
+### Wide River or Canyon
 A wide river or canyon blocks the party’s route. It is 4d4 ×5 feet wide. If it’s a river, it’s d6 ×5 feet deep at its deepest and fast-moving. If it’s a canyon, it’s d6 ×50 feet deep. The party either thinks of a way to get across, stops there for the day, or spends 3 hours in a forced march to find a bridge or narrow crossing. Swimming across a river requires a DC 15 Strength (Athletics) check to not gain a level of exhaustion.
 
-##### Quicksand
+### Quicksand
 A 10 feet deep area of sand or mud beneath the party becomes churned up by the party’s movement, becoming liquefied. If a character is On Watch and succeeds against the environment’s Search DC, they spot what’s happening and can stop half the party from moving onto the quicksand. 
 
 Any creatures in the quicksand start partially submerged, and will be fully submerged in 2, 3, or 3 rounds if they are Small, Medium, or Large respectively. Fully submerged creatures gain a level of exhaustion. Simple wooden vehicles that become submerged are destroyed. 
 
 Creatures can make it to the edge with an action and a successful Strength check (no proficiency). The DC is 10 + 5 for each previous turn they have had while submerged. Creatures out of the quicksand have advantage on the check to pull another creature or object out, though the target is d2 × 5 feet from the closest edge and may be difficult to reach. Anything fully submerged can eventually be pulled out.
 
-##### Flash Flood
+### Flash Flood
 Several hours of pouring rain cause a flash flood in the area. Fast-moving water 5 feet deep rushes through an area for several minutes, destroying topsoil, plants, vehicles, and maybe even trees. Each creature has one turn to react (in any order) before the water hits them. If a character is On Watch and succeeds against the environment’s Search DC, they can warn the party and give everyone an additional turn. Each creature hit by the flood must make a DC 20 Strength Saving Throw, or be swept d6 × 100 feet away and gain a level of exhaustion. By default, high ground can be found 40 + (d10 × 10) feet away from any given character (roll separately for each character). High-ground includes large trees, hills, and buildings.
 
-##### Rock Slide
+### Rock Slide
 Nearby rocks, dirt or snow come loose and roll down towards the party. Each creature makes a DC 15 Dexterity Saving Throw or is knocked unconscious momentarily, gaining a level of exhaustion upon waking. If a character is On Watch and succeeds against the environment’s Search DC, they can warn the party and give everyone advantage on the save.
 
-##### Insect Swarm
+### Insect Swarm
 A swarm of insects moves through the party. Each creature makes a DC 15 Constitution Saving Throw or gains a level of exhaustion. If a character is On Watch and succeeds against the environment’s Search DC, they can warn the party and give everyone advantage on the save.
 
-##### Razorvine
+### Razorvine
 The party’s route is covered in Razorvine, a magical, malignant, malicious weed that is known for appearing one day and disappearing the next. All Activity DCs (except Craft Poison) are increased by 5 for the day. Each creature must make a DC 15 Constitution Saving Throw or lose half their current Hit Dice, a quarter if they save or a character is successfully Supporting the party (minimum of one), and none if they save and a character is successfully Supporting the party.
 
-##### Blizzard
+### Blizzard
 Freezing winds and snow heavily obscure everything for the day. Creatures either find cover and make no progress that day, or risk the blizzard to perform their activities and travel half the expected number of hexes. 
 
 Finding cover (such as a building or cave) requires a DC 10 Perception check at disadvantage, with a 50% chance of the cover being occupied by a strange person. Creatures that don’t find cover make a DC 15 Constitution Saving Throw or gain a level of exhaustion, and those without cold weather gear or resistance to cold damage take half of their maximum hitpoints in damage.
 
-##### Cold Snap
+### Cold Snap
 The temperature drops incredibly low for several hours. All creatures make a DC 15 Constitution Saving Throw or gain a level of exhaustion. Creatures without cold weather gear or resistance to cold take half of their maximum hitpoints in damage.
 
-##### Heat Wave
+### Heat Wave
 The day becomes unbearably hot for several hours. All creatures make a DC 15 Constitution Saving Throw or gain a level of exhaustion. Creatures who remain in armor without resistance to fire take half of their maximum hitpoints in damage.
 
-##### Storm
+### Storm
 Strong winds and rain heavily obscure everything for the day. Creatures either find cover and make no progress that day, or risk the storm. Any creatures that don’t find cover (such as a building or cave) can’t gain the benefits of short rests, and they make a DC 15 Constitution Saving Throw. On a failure, they either lose a Hit Die or gain a level of exhaustion. Water and air ships that don’t find safety require the captain to make a DC 10 Intelligence or Wisdom (Vehicle (Water or Air)) check, or the ship begins to sink or crash.
 
 :::note Eldritch Storms
 If appropriate, the storm can be flavored using the descriptions in TCE (p.163): Flaywind, Flame Storm, Necrotic Tempest, Thrym’s Howl.
 :::
 
-### Monuments and Weird Locales Table (Choose any Column)
+## Monuments and Weird Locales Table (Choose any Column)
 | d20 Roll | Monuments | Weird Locales | Magical Phenomenon (TCE pg. 163) |
 | --- | --- | --- | --- |
 | 1-2 | Sealed burial mound or pyramid | Wild magic zone (roll on the Wild Magic Surge table whenever a spell is cast) | Enchanted Springs |
@@ -121,19 +121,19 @@ If appropriate, the storm can be flavored using the descriptions in TCE (p.163):
 | 19 | Ruined or toppled circle of standing stones | Canyon containing a dragon graveyard | Unearthly Roads |
 | 20 | Magic totem pole | Floating earth mote with a tower on it | Unearthly Roads |
 
-### Environment Encounters
+## Environment Encounters
 If a random environment encounter happens, the DM either rolls a d100 or chooses an encounter on the relevant environment table (p.92-112 of XGE), using the environment of one of the hexes that the party is travelling through that day. 
 
 On a road or river, use the encounter tables that match the surrounding environment. 
 
 When imagining the terrain surrounding a random encounter, consider adding a random monument or weird locale.
 
-#### The Reaction Roll
+### The Reaction Roll
 If an encounter involves creatures the party hasn’t met before, the DM either chooses or rolls on the Reactions table to see how those creatures react to the party. 
 
 **Monster Desires.** Reaction rolls can be used in conjunction with the Parleying With Monsters rules in TCE (p.148), to determine what the creatures are interested in.
 
-##### Reactions Table
+#### Reactions Table
 | d20 Roll | Encounter |
 | --- | --- |
 | 1 | The creature(s) immediately attack the party, acting in a crazed or strange way with no regard for their own safety. |
@@ -143,4 +143,4 @@ If an encounter involves creatures the party hasn’t met before, the DM either 
 | 17-19 | The creature(s) are friendly towards the party, and maybe curious or welcoming. |
 | 20 | If sapient, the creature(s) fall to their knees, praising the party for saving them, or for fulfilling a prophecy. Otherwise the creature(s) act like domesticated animals owned by the party. |
 
-### Lair or Stronghold - TO DO
+## Lair or Stronghold - TO DO

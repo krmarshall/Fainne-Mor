@@ -2,25 +2,19 @@
 title: Weapons
 ---
 
-## Adjusted Weapons
+## Melee Weapons
 
-### Melee Weapons
-
-#### Shortsword
+### Shortsword
 - Damage increased from 1d6 to 1d8 piercing.
 
-### Ranged Weapons
+## Ranged Weapons
 
-#### Net
+### Net
 - Thrown range increased from 5/15 to 10/20.
-
 - Special rules reworked, read below: (Increased size limit, changed breakout saving throw, nets don't break, can multi attack)
-
 - A Huge or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are form less, or creatures that are Gargantuan. A creature can use its action to make a Strength check of DC 8 + your proficiency, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect. When you use an action, bonus action, or reaction to attack with a net, if you’re able to make multiple attacks with that Attack, this Attack replaces one of them.
 
-## New Weapons
-
-### Firearms
+## Firearms
 | Weapon | Cost | Damage | Weight | Properties |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Hand Cannon | - | 2d6 piercing | 3 lb. | Ammunition (range 40/120), reload (10 shots), two-handed |
@@ -30,13 +24,13 @@ title: Weapons
 | Ammunition |
 | Bullets (10) | 3gp | - | 2 lb. | Standard Ammunition used by the Hand Cannon, Drake Gun, and Thunder Gun |
 
-#### Ammunition
+### Ammunition
 The ammunition of a firearm is destroyed upon use, firearms use bullets as ammunition.
 
-#### Reload
+### Reload
 A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice).
 
-#### Long Gun
+### Long Gun
 A particularly unwieldy weapon, attacks with the Long Gun have disadvantage if you have moved this turn, and after making an attack with it your speed is 0 until the end of the current turn. It also uses a special range profile seen below. The Sharpshooter feat only mitigates the long range profile, not the short range profile.
 
 | Range | Attack Type |

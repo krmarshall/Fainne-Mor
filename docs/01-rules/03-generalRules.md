@@ -24,6 +24,10 @@ When you reach a combined total of 4 levels in the following classes, you gain p
 ### Expert Martials
 When you reach a combined total of 8 levels in the following classes, you gain expertise in one of your proficient skills: Barbarian, Fighter, Monk, Rogue, Artificer, Paladin, and Ranger.
 
+## Short Rests
+- Required duration reduced from 1 hour to 10 minutes.
+- Cannot short rest more than 3 times per day.
+
 ## Combat
 ### Potions
 - Potions can be drank with a bonus action.

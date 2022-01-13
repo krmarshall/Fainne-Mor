@@ -1,19 +1,13 @@
 ---
-title: Resting and Camping
+title: Camping
 ---
 
-## Short Rests
-- Required duration reduced from 1 hour to 10 minutes.
-- Cannot short rest more than 3 times per day.
-
-## Long Rests
-### Sleeping in the Wild
+## Sleeping in the Wild
 Whenever you sleep in the wilderness, you cannot benefit from a long rest. This includes somewhere temporary like a cave or tent, or other squalid conditions. Long rests require at least poor conditions: safe and comfortable places like a wizard’s tower, a permanent and maintained treehouse, or a secure room safe from the weather and wandering monsters.
 
-## Camping
 While in the wilderness there are situations where the party may want or need to take a long rest outside reach of proper shelter. In those cases they can spend the day setting up camp in order to make a location safe and comfortable enough to gain the benefits of a long rest.
 
-### Camping Procedure
+## Camping Procedure
 When the party decides to set up camp for the day perform the following steps:
 
 **Step 1.** Each PC chooses one of the following activities to perform while camping: **set up, forage, hunker down, on watch, support, motivate, chronicle, or craft.**
@@ -27,7 +21,7 @@ When the party decides to set up camp for the day perform the following steps:
 ### Detection
 When an encounter besides Hazard is rolled, the DM makes an appropriate Wisdom (Perception) check based on creatures in that encounter to detect the parties camp. The camp rolls a competing stealth check gaining appropriate bonuses from the Hunker Down and On Watch activities. If the camp is not detected the party can choose to stay hidden, or set up an ambush; and if the camp is spotted the encounter is roleplayed accordingly.
 
-### Camping Activities
+## Camping Activities
 This section outlines the activities that a character can perform while camping. Each character can perform one activity per day. 
 
 **Rangers.** Rangers can perform two activities. 
@@ -38,12 +32,12 @@ This section outlines the activities that a character can perform while camping.
 
 **Multiple characters.** If multiple characters perform the same activity, each character rolls as normal and only the highest result is used.
 
-#### Set Up
+### Set Up
 You search the local area for an appropriate area to set up camp. The DC is determined by the environment the party is in and any relevant modifiers, as described on the activity DC tables. On a success, the party finds a relatively secure and comfortable location to set up a campsite for the day and are able to gain the benefits of a long rest when sleeping. On a failure, the location the party chooses to set up camp is less than ideal and are only able to gain partial benefits of long rest when sleeping. Each PC chooses one of the following options: regain half your maximum health and hit dice, regain your spell slots, regain all other long rest abilities/features.
 
 **Example Proficiencies.** Intelligence or Wisdom (Survival, Investigation, or Nature). 
 
-#### Forage
+### Forage
 You forage for food and water. The DC is determined by the environment the party is in and any relevant modifiers, as described in the Activity DC tables. On a success, you find enough food and water to feed the PCs for the day. If you beat the DC by 10+, you also find enough for the PCs’ mounts and close companions. Each unfed creature consumes 5 sp worth of rations for the day or loses 1 Hit Die. If they have no remaining Hit Dice, or don’t eat or drink for a number of days equal to their Constitution modifier, they gain a level of exhaustion. 
 
 **Example Proficiencies.** Intelligence or Wisdom (Survival or Nature).
@@ -56,33 +50,33 @@ Assume that the party can travel with 3 days worth of water per person. If they 
 ~~To prevent water being trivial to acquire, magic below 3rd level cannot provide hydration.~~
 :::
 
-#### Hunker Down
+### Hunker Down
 You ensure the camp maintains as low a profile as possible. Ensuring the fire isn't visible from too far, any temporary structures are camouflaged, and all tracks are covered. On a success, the camp gains the players ability modifier made to hunker down added to stealth checks against being detected.
 
 **Example Proficiencies.** Dexterity (Stealth), Wisdom (Survival), or Charisma (Deception).
 
-#### Support - NEEDS REWORK
+### Support - NEEDS REWORK
 You help the party handle the wilderness with supporting tasks like preparing meals or alcohol, tending to injuries, or repairing shoes or gear. 
 
 The DC is 10 + the average party level, with a maximum of +10. On a success, the party gains a hit die while sleeping in the wild that day, and other party members can add a d4 to their Activity checks. 
 
 **Example Proficiencies.** Intelligence or Wisdom (Medicine, Cook’s Utensils or Brewer’s Supplies), Intelligence or Strength (Cobbler’s Tools), Intelligence or Dexterity (Weaver’s Tools).
 
-#### Motivate - NEEDS REWORK
+### Motivate - NEEDS REWORK
 You motivate the party to keep up morale by playing music, coaching, persuading or intimidating the party. 
 
 The DC is 10 + the average party level, with a maximum of +10. On a success, -- DO SOMETHING --, and players can add a d4 to any initiative checks that day. 
 
 **Example Proficiencies.** Charisma (Persuasion), Strength or Charisma (Intimidate or Athletics), Wisdom or Charisma (Musical Instrument).
 
-#### On Watch
+### On Watch
 You vigilantly keep a look out for creatures and hazards. If other creatures are also on watch, spotting them before they spot the party requires a succeeding at a contested Wisdom (Perception) check. Otherwise you always spot them first. Seeing creatures early allows the party to ambush them if desired, or gain advantage on the stealth check to avoid detection. 
 
 You also have a chance to spot some Environment Hazards more quickly, using the environment’s Search DC. 
 
 **Example Proficiencies.** Wisdom (Perception).
 
-#### Chronicle - NEEDS REWORK
+### Chronicle - NEEDS REWORK
 You chronicle the party’s journey, creating a record such as drawings, songs, poems, a journal, or maps. Any chronicle you create has a set amount of value, either in gold pieces or services. For example you could recount the chronicle at taverns for free food and beds, or sell copies of the work to a library or guild. 
 
 Roll an ability check with one of the skills or toolkits below that you are proficient with. The chronicle has a gp value equal to the result. The value is doubled if you discover a new location or creature in the area. 
@@ -91,7 +85,7 @@ If you roll above the environment’s navigation DC, the party can travel the sa
 
 **Example Proficiencies.** Intelligence (History, Performance, Musical Instrument, Forgery kit or Cartographer’s tools), Intelligence or Dexterity (Calligrapher’s or Painter’s supplies).
 
-#### Craft - COULD USE REWORK
+### Craft - COULD USE REWORK
 Each day, you gather materials from the environment and craft one of the following, depending on the toolkit you use. The DCs are presented in the Activity DC table. 
 
 **Potion of Healing.** You find ingredients and create a potion of healing. Roll Intelligence or Wisdom (Herbalism or Poisoner’s kit, or Alchemist’s supplies). 

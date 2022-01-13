@@ -121,7 +121,11 @@ const config = {
     [
       require.resolve('@easyops-cn/docusaurus-search-local'),
       {
+        indexDocs: true,
+        indexBlog: false,
+        indexPages: true,
         hashed: true,
+        searchResultLimits: 10,
         blogRouteBasePath: 'changelogs',
         blogDir: 'changelogs',
         highlightSearchTermsOnTargetPage: true,
