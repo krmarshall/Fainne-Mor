@@ -18,7 +18,7 @@ title: Weapons
 | Weapon | Cost | Damage | Weight | Properties |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Hand Cannon | - | 2d6 piercing | 3 lb. | Ammunition (range 40/120), reload (10 shots), two-handed |
-| Drake Gun | - | 4d4 piercing | 7 lb. | Ammunition (range 15/45), reload (2 shots), two-handed |
+| Drake Gun | - | 4d4 piercing | 7 lb. | Ammunition (range 15/45), reload (2 shots), two-handed, special |
 | Thunder Gun | - | 3d6 piercing | 8 lb. | Ammunition (range 80/240), reload (10 shots), two-handed |
 | Long Gun | - | - | 10 lb. | Ammunition (range 30/120/360), reload (1 shot), two-handed, special |
 | Ammunition |
@@ -29,6 +29,9 @@ The ammunition of a firearm is destroyed upon use, firearms use bullets as ammun
 
 ### Reload
 A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice).
+
+### Drake Gun
+A brutal close ranged weapon, the Drake Gun can be fired within 5 feet of a hostile creature without imposing disadvantage on your ranged attack rolls.
 
 ### Long Gun
 A particularly unwieldy weapon, attacks with the Long Gun have disadvantage if you have moved this turn, and after making an attack with it your speed is 0 until the end of the current turn. It also uses a special range profile seen below. The Sharpshooter feat only mitigates the long range profile, not the short range profile.
