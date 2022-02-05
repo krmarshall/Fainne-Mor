@@ -16,6 +16,7 @@ title: Feats
 
 ### Grappler
 *Prerequisite: Strength 13 or higher*
+
 **Change**: The whole feat is rewritten as follows:
 - Increase your Strength or Constitution score by 1, to a maximum of 20.
 - You have advantage on attack rolls against a creature you are grappling (including to shove).

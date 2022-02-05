@@ -2,5 +2,5 @@
 title: Monk
 ---
 
-## ?
-Probably just needs a reprint or large rework from WotC.
+## ???
+IDK dude, really just needs a reprint or massive rework from WotC.
