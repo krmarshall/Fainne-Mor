@@ -129,6 +129,7 @@ const config = {
         blogRouteBasePath: 'changelogs',
         blogDir: 'changelogs',
         highlightSearchTermsOnTargetPage: true,
+        ignoreFiles: /dmNotes/,
       },
     ],
     [
