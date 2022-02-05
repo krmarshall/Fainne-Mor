@@ -157,12 +157,10 @@ If you roll above the environment’s navigation DC, the party can travel the sa
 
 **Example Proficiencies.** Intelligence (History, Performance, Musical Instrument, Forgery kit or Cartographer’s tools), Intelligence or Dexterity (Calligrapher’s or Painter’s supplies).
 
-### Craft - COULD USE REWORK
+### Craft
 Each day, you gather materials from the environment and craft one of the following, depending on the toolkit you use. The DCs are presented in the Activity DC table. 
 
 **Potion of Healing.** You find ingredients and create a potion of healing. Roll Intelligence or Wisdom (Herbalism or Poisoner’s kit, or Alchemist’s supplies). 
-
-**Magic Ink.** You find a faintly magical liquid in a plant or carcass, and either scribe a cantrip or 1st level spell you know, or create a letter or artwork that causes the first viewer to be under the effect of the Suggestion spell. Roll Intelligence or Wisdom (Forgery kit, Painter’s or Calligrapher’s supplies, Cartographer’s tools). 
 
 **Poison.** You find ingredients and create a mild poison. It is an ingestion or injury poison, and causes the target to become poisoned for an hour if they fail a DC 15 Constitution Saving Throw. Roll Intelligence or Wisdom (Brewer’s or Alchemist’s supplies, Cook’s utensils, Herbalism or Poisoner’s kit). 
 
@@ -172,23 +170,25 @@ Each day, you gather materials from the environment and craft one of the followi
 
 **Special material.** At the DM’s discretion, you can also gather materials to craft other things, though some may take longer than a day to make or require more materials.
 
+**Custom Items.** Instead of gathering materials to craft above items, you can spend your time traveling to work on Crafting an Item or Scribing a Spell Scroll as described in XGE on pages 128/133 respectively. If the party is traveling with a suitable vehicle like a covered wagon, boat, or airship that has appropriate space for your tools you can work on your item at the activities standard rate. If the party is traveling without a suitable vehicle such as on foot or horseback their progress on the item is at half the standard rate. You may still require special ingredients or assistance from more experienced characters to complete the item depending on its complexity.
+
 ### Activity DCs - COULD USE A RETUNE
-| Environment   | Navigate  | Search  | Forage  | Utilize Vehicle | Ink | Potion  | Poison  | Protection  | Weapon  |
-| ---           | ---       | ---     | ---     | ---             | --- | ---     | ---     | ---         | ---     |
-| Roads         | 0         | 15      | 10      | 10              | 20  | 20      | 20      | 15          | 15      |
-| Grassland     | 10        | 15      | 5       | 15              | 15  | 15      | 15      | 15          | 15      |
-| Coastal       | 0         | 10      | 10      | 20              | 10  | 15      | 10      | 15          | 15      |
-| Desert        | 20        | 15      | 25      | 20              | 20  | 20      | 15      | 20          | 20      |
-| Arctic        | 20        | 10      | 20      | 20              | 15  | 20      | 20      | 20          | 15      |
-| Underdark     | 15        | 20      | 15      | 10              | 10  | 15      | 10      | 15          | 20      |
-| Swamp         | 10        | 10      | 10      | 20              | 10  | 10      | 10      | 15          | 15      |
-| Hills         | 15        | 15      | 10      | 15              | 20  | 15      | 15      | 10          | 10      |
-| Forest        | 15        | 15      | 5       | 25              | 15  | 10      | 10      | 10          | 10      |
-| Mountains     | 20        | 20      | 20      | 30              | 20  | 20      | 20      | 15          | 15      |
-| Mountain Path | 10        | 20      | 20      | 15              | 20  | 20      | 20      | 20          | 20      |
-| Water         | 15        | 25      | 15      | 20              | 10  | 10      | 10      | 20          | 20      |
-| Urban         | 15        | 20      | N/A     | N/A             | 25  | 25      | 25      | 25          | 25      |
-| In The Air    | 0         | N/A     | N/A     | 15              | N/A | N/A     | N/A     | N/A         | N/A     |
+| Environment   | Navigate  | Search  | Forage  | Utilize Vehicle | Potion  | Poison  | Protection  | Weapon  |
+| ---           | ---       | ---     | ---     | ---             | ---     | ---     | ---         | ---     |
+| Roads         | 0         | 15      | 10      | 10              | 20      | 20      | 15          | 15      |
+| Grassland     | 10        | 15      | 5       | 15              | 15      | 15      | 15          | 15      |
+| Coastal       | 0         | 10      | 10      | 20              | 15      | 10      | 15          | 15      |
+| Desert        | 20        | 15      | 25      | 20              | 20      | 15      | 20          | 20      |
+| Arctic        | 20        | 10      | 20      | 20              | 20      | 20      | 20          | 15      |
+| Underdark     | 15        | 20      | 15      | 10              | 15      | 10      | 15          | 20      |
+| Swamp         | 10        | 10      | 10      | 20              | 10      | 10      | 15          | 15      |
+| Hills         | 15        | 15      | 10      | 15              | 15      | 15      | 10          | 10      |
+| Forest        | 15        | 15      | 5       | 25              | 10      | 10      | 10          | 10      |
+| Mountains     | 20        | 20      | 20      | 30              | 20      | 20      | 15          | 15      |
+| Mountain Path | 10        | 20      | 20      | 15              | 20      | 20      | 20          | 20      |
+| Water         | 15        | 25      | 15      | 20              | 10      | 10      | 20          | 20      |
+| Urban         | 15        | 20      | N/A     | N/A             | 25      | 25      | 25          | 25      |
+| In The Air    | 0         | N/A     | N/A     | 15              | N/A     | N/A     | N/A         | N/A     |
 
 #### Activity DC Modifiers - COULD USE A RETUNE
 | Modifier | DC |

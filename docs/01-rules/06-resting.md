@@ -76,21 +76,10 @@ You also have a chance to spot some Environment Hazards more quickly, using the 
 
 **Example Proficiencies.** Wisdom (Perception).
 
-### Chronicle - NEEDS REWORK
-You chronicle the party’s journey, creating a record such as drawings, songs, poems, a journal, or maps. Any chronicle you create has a set amount of value, either in gold pieces or services. For example you could recount the chronicle at taverns for free food and beds, or sell copies of the work to a library or guild. 
-
-Roll an ability check with one of the skills or toolkits below that you are proficient with. The chronicle has a gp value equal to the result. The value is doubled if you discover a new location or creature in the area. 
-
-If you roll above the environment’s navigation DC, the party can travel the same route without making a navigation check in future. This includes backtracking if you become lost. 
-
-**Example Proficiencies.** Intelligence (History, Performance, Musical Instrument, Forgery kit or Cartographer’s tools), Intelligence or Dexterity (Calligrapher’s or Painter’s supplies).
-
-### Craft - COULD USE REWORK
+### Craft
 Each day, you gather materials from the environment and craft one of the following, depending on the toolkit you use. The DCs are presented in the Activity DC table. 
 
 **Potion of Healing.** You find ingredients and create a potion of healing. Roll Intelligence or Wisdom (Herbalism or Poisoner’s kit, or Alchemist’s supplies). 
-
-**Magic Ink.** You find a faintly magical liquid in a plant or carcass, and either scribe a cantrip or 1st level spell you know, or create a letter or artwork that causes the first viewer to be under the effect of the Suggestion spell. Roll Intelligence or Wisdom (Forgery kit, Painter’s or Calligrapher’s supplies, Cartographer’s tools). 
 
 **Poison.** You find ingredients and create a mild poison. It is an ingestion or injury poison, and causes the target to become poisoned for an hour if they fail a DC 15 Constitution Saving Throw. Roll Intelligence or Wisdom (Brewer’s or Alchemist’s supplies, Cook’s utensils, Herbalism or Poisoner’s kit). 
 
@@ -100,22 +89,24 @@ Each day, you gather materials from the environment and craft one of the followi
 
 **Special material.** At the DM’s discretion, you can also gather materials to craft other things, though some may take longer than a day to make or require more materials.
 
+**Custom Items.** Instead of gathering materials to craft above items, you can spend your time resting to work on Crafting an Item or Scribing a Spell Scroll as described in XGE on pages 128/133 respectively. You may still require special ingredients or assistance from more experienced characters to complete the item depending on its complexity.
+
 ### Activity DCs - COULD USE A RETUNE
-| Environment   | Set Up    | Forage  | Hunker Down | Ink | Potion  | Poison  | Protection  | Weapon  |
-| ---           | ---       | ---     | ---         | --- | ---     | ---     | ---         | ---     |
-| Roads         | 15        | 10      | 20          | 20  | 20      | 20      | 15          | 15      |
-| Grassland     | 15        | 5       | 15          | 15  | 15      | 15      | 15          | 15      |
-| Coastal       | 10        | 10      | 10          | 10  | 15      | 10      | 15          | 15      |
-| Desert        | 20        | 25      | 15          | 20  | 20      | 15      | 20          | 20      |
-| Arctic        | 20        | 20      | 15          | 15  | 20      | 20      | 20          | 15      |
-| Underdark     | 15        | 15      | 15          | 10  | 15      | 10      | 15          | 20      |
-| Swamp         | 15        | 10      | 10          | 10  | 10      | 10      | 15          | 15      |
-| Hills         | 10        | 10      | 10          | 20  | 15      | 15      | 10          | 10      |
-| Forest        | 10        | 5       | 15          | 15  | 10      | 10      | 10          | 10      |
-| Mountains     | 20        | 20      | 15          | 20  | 20      | 20      | 15          | 15      |
-| Mountain Path | 15        | 20      | 20          | 20  | 20      | 20      | 20          | 20      |
-| Water         | 15        | 15      | 15          | 10  | 10      | 10      | 20          | 20      |
-| Urban         | 15        | N/A     | 10          | 25  | 25      | 25      | 25          | 25      |
+| Environment   | Set Up    | Forage  | Hunker Down | Potion  | Poison  | Protection  | Weapon  |
+| ---           | ---       | ---     | ---         | ---     | ---     | ---         | ---     |
+| Roads         | 15        | 10      | 20          | 20      | 20      | 15          | 15      |
+| Grassland     | 15        | 5       | 15          | 15      | 15      | 15          | 15      |
+| Coastal       | 10        | 10      | 10          | 15      | 10      | 15          | 15      |
+| Desert        | 20        | 25      | 15          | 20      | 15      | 20          | 20      |
+| Arctic        | 20        | 20      | 15          | 20      | 20      | 20          | 15      |
+| Underdark     | 15        | 15      | 15          | 15      | 10      | 15          | 20      |
+| Swamp         | 15        | 10      | 10          | 10      | 10      | 15          | 15      |
+| Hills         | 10        | 10      | 10          | 15      | 15      | 10          | 10      |
+| Forest        | 10        | 5       | 15          | 10      | 10      | 10          | 10      |
+| Mountains     | 20        | 20      | 15          | 20      | 20      | 15          | 15      |
+| Mountain Path | 15        | 20      | 20          | 20      | 20      | 20          | 20      |
+| Water         | 15        | 15      | 15          | 10      | 10      | 20          | 20      |
+| Urban         | 15        | N/A     | 10          | 25      | 25      | 25          | 25      |
 
 #### Activity DC Modifiers - COULD USE A RETUNE
 | Modifier | DC |
