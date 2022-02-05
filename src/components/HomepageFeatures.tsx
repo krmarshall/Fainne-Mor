@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Homebrew Rules',
     image: '/img/undraw_file_searching_re_3evy.svg',
-    href: '/docs/rules/sources',
+    href: '/docs/rules/designGoals',
     description: <>Reference this campaigns custom rules.</>,
   },
   {

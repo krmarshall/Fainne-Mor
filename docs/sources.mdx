@@ -4,6 +4,16 @@ title: Sources
 sidebar_position: 9
 ---
 
+import { useHistory } from '@docusaurus/router';
+
+export const DmNotesRedirect = () => {
+  const history = useHistory();
+  const redirectHandler = () => {
+    history.push('/docs/dmNotes/index');
+  }
+  return <span onDoubleClick={redirectHandler}>a</span>
+}
+
 ## Image Sources
 
 Logo/Favicon: [CarStickers](https://www.carstickers.com/products/stickers/medieval-and-mythical-stickers/celtic-knot-car-stickers-decals/details/celtic-knot-on-circle-sticker-2690/)
@@ -23,4 +33,4 @@ A lot of homebrew rules were taken or adapted from [Caesars House of the Fifth](
 
 ## Travel and Resting
 
-Large portions of travel and rest rules are adapted from/inspired by both [Caesars House of the Fifth](https://drive.google.com/file/d/1qp2IC_nsS6HBCS8B2_Wmq1X7JH60_Txr/view) and Adventures In Middle Earth (Out of Print and can't find a publisher page to link?)
+Large portions of travel and rest rules are adapted from/inspired by both [Caesars House of the Fifth](https://drive.google.com/file/d/1qp2IC_nsS6HBCS8B2_Wmq1X7JH60_Txr/view)[h](./dmNotes/index) and Adventures In Middle Earth (Out of Print and can't find <DmNotesRedirect /> publisher page to link?)

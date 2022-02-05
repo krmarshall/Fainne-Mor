@@ -14,6 +14,18 @@ title: Feats
 - You have advantage on saving throws made to avoid or resist traps.
 - You have resistance to damage dealt by traps.
 
+### Grappler
+*Prerequisite: Strength 13 or higher*
+**Change**: The whole feat is rewritten as follows:
+- Increase your Strength or Constitution score by 1, to a maximum of 20.
+- You have advantage on attack rolls against a creature you are grappling (including to shove).
+- Your speed is no longer halved when moving a grappled creature with you.
+- When you make an opportunity attack, if you are within 5 feet of the target you can make a grapple attack instead of a weapon attack. If you succeed the target becomes grappled.
+
+### Great Weapon Master
+- On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
+- **Changed**: Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to subtract your proficiency bonus from the attack roll. If that attack hits, you add twice your proficiency bonus to the attack's damage.
+
 ### Keen Mind
 **Change**: The whole feat is rewritten as follows:
 - You are able to concentrate on two effects (such as spells) at once. Only one of the effects can be a spell of 3rd level or higher. If you would make a saving throw to maintain concentration while concentrating on two effects, roll once with disadvantage. On a failure, both effects are lost.
@@ -21,10 +33,21 @@ title: Feats
 - You always know the number of hours left before the next sunrise or sunset.
 - You can accurately recall anything you have ever seen or heard.
 
+### Mage Slayer
+- **Addition**: Increase your Strength or Dexterity by 1, to a maximum of 20.
+- When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature.
+- When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration.
+- You have advantage on saving throws against spells cast by creatures within 5 feet of you.
+
 ### Savage Attacker
 **Change**: The whole feat is rewritten as follows:
 - Increase your Strength or Dexterity score by 1, to a maximum of 20.
 - The critical hit range of your weapon attacks increases by 1.
+
+### Sharpshooter
+- Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
+- Your ranged weapon attacks ignore half and three-quarters cover.
+- **Changed**: Before you make an attack with a ranged weapon that you are proficient with, you can choose to subtract your proficiency bonus from the attack roll. If that attack hits, you add twice your proficiency bonus to the attack's damage.
 
 ### Skulker
 *Prerequisite: Dexterity 13 or higher*

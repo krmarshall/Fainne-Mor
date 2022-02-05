@@ -82,6 +82,10 @@ const config = {
                 to: '/docs/intro',
               },
               {
+                label: 'Design Goals',
+                to: '/docs/rules/designGoals',
+              },
+              {
                 label: 'Sources / Inspiration',
                 to: '/docs/sources',
               },

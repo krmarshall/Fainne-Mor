@@ -19,7 +19,7 @@ When you reach a combined total of 11 levels (and again at 15 and 20 levels) in 
 When you reach a combined total of 6 levels in the following classes you gain the Sentinel feat: Barbarian, Fighter, Monk, Rogue, and three quarters of any Artificer, Paladin, and Ranger levels (rounded down). For example, without any multiclassing, a ranger will gain the Sentinel feat at level 8 (8 * 0.75 = 6).
 
 ### Skilled Martials
-When you reach a combined total of 4 levels in the following classes, you gain proficiency in one skill from your classes available skill proficiencies: Barbarian, Fighter, Monk, Rogue, Artificer, Paladin, and Ranger.
+When you reach a combined total of 4 levels (and again at 8 levels) in the following classes, you gain proficiency in one skill from your classes available skill proficiencies: Barbarian, Fighter, Monk, Rogue, Artificer, Paladin, and Ranger.
 
 ### Expert Martials
 When you reach a combined total of 8 levels in the following classes, you gain expertise in one of your proficient skills: Barbarian, Fighter, Monk, Rogue, Artificer, Paladin, and Ranger.
@@ -39,11 +39,6 @@ When you reach a combined total of 8 levels in the following classes, you gain e
 | Greater Healing | 20 |
 | Superior Healing | 40 |
 | Supreme Healing | 60 |
-
-### Opportunity Attacks
-- Opportunity Attacks from creatures moving away from you do not require a reaction.
-- War Caster still requires a reaction to cast a spell instead of attacking.
-- Polearm Master's opportunity attack from a creature entering your reach still requires a reaction.
 
 ### Movement
 Moving through an allies space is not difficult terrain.
