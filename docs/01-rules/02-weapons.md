@@ -17,12 +17,12 @@ title: Weapons
 ## Firearms
 | Weapon | Cost | Damage | Weight | Properties |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Hand Cannon | - | 2d6 piercing | 3 lb. | Ammunition (range 40/120), reload (10 shots), two-handed |
-| Drake Gun | - | 4d4 piercing | 7 lb. | Ammunition (range 15/45), reload (2 shots), two-handed, special |
-| Thunder Gun | - | 3d6 piercing | 8 lb. | Ammunition (range 80/240), reload (10 shots), two-handed |
-| Long Gun | - | - | 10 lb. | Ammunition (range 30/120/360), reload (1 shot), two-handed, special |
+| Hand Cannon | - | d10 piercing | 3 lb. | Ammunition (range 40/120), reload (10 shots), two-handed |
+| Drake Gun | - | 3d4 piercing | 7 lb. | Ammunition (range 15/45), reload (2 shots), two-handed, special |
+| Repeating Rifle | - | 2d6 piercing | 8 lb. | Ammunition (range 120/480), reload (10 shots), two-handed |
+| Long Rifle | - | - | 10 lb. | Ammunition (range 30/240/960), reload (3 shots), two-handed, special |
 | Ammunition |
-| Bullets (10) | 3gp | - | 2 lb. | Standard Ammunition used by the Hand Cannon, Drake Gun, and Thunder Gun |
+| Bullets (10) | 5gp | - | 2 lb. | Standard Ammunition used by most weapons |
 
 ### Ammunition
 The ammunition of a firearm is destroyed upon use, firearms use bullets as ammunition.
@@ -33,19 +33,19 @@ A limited number of shots can be made with a weapon that has the reload property
 ### Drake Gun
 A brutal close ranged weapon, the Drake Gun can be fired within 5 feet of a hostile creature without imposing disadvantage on your ranged attack rolls.
 
-### Long Gun
-A particularly unwieldy weapon, attacks with the Long Gun have disadvantage if you have moved this turn, and after making an attack with it your speed is 0 until the end of the current turn. It also uses a special range profile seen below. The Sharpshooter feat only mitigates the long range profile, not the short range profile.
+### Long Rifle
+A particularly unwieldy weapon, attacks with the Long Rifle have disadvantage if you have moved this turn, and after making an attack with it your speed is 0 until the end of the current turn. It also uses a special range profile seen below. The Sharpshooter feat only mitigates the long range profile, not the short range profile.
 
 | Range | Attack Type |
 | ----------- | ----------- |
-| Less than or equal to 30ft | Disadvantage |
-| Between 30ft and 120ft | Standard |
-| Greater than or equal to 120ft | Disadvantage |
+| Less than 30ft | Disadvantage |
+| From 30ft to 240ft | Standard |
+| Greater than 240ft | Disadvantage |
 
-The Long Gun uses special oversized ammunition that must be loaded 1 round at a time. Your ammunition options are listed below:
+The Long Rifle uses special oversized ammunition that must be hand loaded. You declare the type of ammunition used when firing the round, not when loading. Your ammunition options are listed below:
 
 | Ammunition | Cost | Damage | Weight | Effects |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Ball | 1gp | 3d10 piercing | 0.5lb | Can hit a second target directly behind the primary for half (round down) the rolled damage. |
-| Explosive | 2gp | 2d10 thunder | 0.5lb | On a successful hit each creature within 10ft. of the target must succeed on a DC 8 + proficiency bonus + dexterity modifier Dexterity save or take 2d10 thunder damage. |
-| AP | 2gp | 3d10 piercing | 0.5lb | Ignores piercing damage resistances, and does half damage to targets with pierce immunity. Deals 2x damage to objects and constructs. |
+| Ball | 1gp | 2d10 piercing | 0.5lb | Can hit a second target behind the primary for half (round down) the rolled damage. |
+| HE | 2gp | d10 piercing | 0.5lb | On a successful hit each creature within 10ft. of the target must succeed on a Dexterity save (DC = 8 + your proficiency bonus + your Dexterity modifier) or take d10 thunder damage. |
+| AP | 2gp | 2d10 piercing | 0.5lb | Ignores piercing damage resistances, and does half damage to targets with pierce immunity. Deals 2x damage to objects and constructs. |

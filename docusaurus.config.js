@@ -129,7 +129,7 @@ const config = {
         indexBlog: false,
         indexPages: true,
         hashed: true,
-        searchResultLimits: 10,
+        searchResultLimits: 5,
         blogRouteBasePath: 'changelogs',
         blogDir: 'changelogs',
         highlightSearchTermsOnTargetPage: true,
