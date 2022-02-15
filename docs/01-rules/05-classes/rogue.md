@@ -12,6 +12,9 @@ Starting at 2nd level, you adopt a particular style of fighting as your specialt
 - Thrown Weapon Fighting. You can draw a weapon that has the thrown property as part of the attack you make with the weapon. In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.
 - Two-Weapon Fighting. When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
+## Archetypal Roguish Archetype (Great Name)
+At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level. In addition to your choice you can also choose to embrace one of the following archetypes: Thief, Scout, or Mastermind. You gain all of that archetypes respective features at the appropriate levels.
+
 <!-- 
 ## Changed
 

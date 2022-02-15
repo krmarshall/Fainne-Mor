@@ -13,16 +13,7 @@ title: General Rules
 Level 1 characters start with 2 Hit Dice and equivalent hit points of a level 2 character. When characters reach level 2, they don't gain hit points or a hit die. (If you multiclass out of level 1 swap your 2nd hit die and corresponding hit points accordingly.)
 
 ### Able Martials
-When you reach a combined total of 11 levels (and again at 15 and 20 levels) in the following classes, you gain an additional ASI or Feat: Barbarian, Fighter, Monk, Rogue, and three quarters of any Artificer, Paladin, and Ranger levels (rounded down). For example, without any multiclassing, a Ranger will gain their first additional ASI at level 15 (15 * 0.75 = 11).
-
-### Stickier Martials
-When you reach a combined total of 6 levels in the following classes you gain the Sentinel feat: Barbarian, Fighter, Monk, Rogue, and three quarters of any Artificer, Paladin, and Ranger levels (rounded down). For example, without any multiclassing, a ranger will gain the Sentinel feat at level 8 (8 * 0.75 = 6).
-
-### Skilled Martials
-When you reach a combined total of 4 levels (and again at 8 levels) in the following classes, you gain proficiency in one skill from your classes available skill proficiencies: Barbarian, Fighter, Monk, Rogue, Artificer, Paladin, and Ranger.
-
-### Expert Martials
-When you reach a combined total of 8 levels in the following classes, you gain expertise in one of your proficient skills: Barbarian, Fighter, Monk, Rogue, Artificer, Paladin, and Ranger.
+When you reach a combined total of 9 levels (and again at 13 and 17 levels) in the following classes, you gain an additional ASI or Feat: Barbarian, Fighter, Monk, Ranger, Rogue, and three quarters of any Artificer or Paladin levels (rounded down). For example, without any multiclassing, a Paladin will gain their first additional ASI at level 12 (12 * 0.75 = 9).
 
 ## Short Rests
 - Required duration reduced from 1 hour to 10 minutes.
