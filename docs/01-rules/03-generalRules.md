@@ -9,6 +9,9 @@ title: General Rules
 - Tasha's Racial ASI Swapping
 
 ## Character Creation
+### Watchful Martials
+When you reach a combined total of 6 levels in the following classes you gain the Sentinel feat: Barbarian, Fighter, Monk, Ranger Rogue, and three quarters of any Artificer or Paladin levels (rounded down). For example, without any multiclassing, a Paladin will gain the Sentinel feat at level 8 (8 * 0.75 = 6).
+
 ### Able Martials
 When you reach a combined total of 9 levels (and again at 13 and 17 levels) in the following classes, you gain an additional ASI or Feat: Barbarian, Fighter, Monk, Ranger, Rogue, and three quarters of any Artificer or Paladin levels (rounded down). For example, without any multiclassing, a Paladin will gain their first additional ASI at level 12 (12 * 0.75 = 9).
 
