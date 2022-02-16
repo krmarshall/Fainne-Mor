@@ -9,9 +9,6 @@ title: General Rules
 - Tasha's Racial ASI Swapping
 
 ## Character Creation
-### Level 1 Hitpoints
-Level 1 characters start with 2 Hit Dice and equivalent hit points of a level 2 character. When characters reach level 2, they don't gain hit points or a hit die. (If you multiclass out of level 1 swap your 2nd hit die and corresponding hit points accordingly.)
-
 ### Able Martials
 When you reach a combined total of 9 levels (and again at 13 and 17 levels) in the following classes, you gain an additional ASI or Feat: Barbarian, Fighter, Monk, Ranger, Rogue, and three quarters of any Artificer or Paladin levels (rounded down). For example, without any multiclassing, a Paladin will gain their first additional ASI at level 12 (12 * 0.75 = 9).
 
