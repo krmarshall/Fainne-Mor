@@ -10,7 +10,9 @@ When you reach 3rd level, you commit yourself to a monastic tradition. Your trad
 
 ### Hit Points
 **Hit Dice:** **1d10** per monk level
+
 **Hit Points at 1st Level:** **10** + your Constitution modifier
+
 **Hit Points at Higher Levels:** **1d10** (or **6**) + your Constitution modifier per monk level after 1st
 
 ### Martial Arts
@@ -21,7 +23,7 @@ When you reach 3rd level, you commit yourself to a monastic tradition. Your trad
 - **Changed:** Step of the Wind. You can take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn. **(Ki cost removed)**
 
 ### Stunning Strike
-- **Addition:** You can use this feature for free a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
+- **Added:** You can use this feature for free a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
 
 ### Martial Arts Die
 | Monk Level | Martial Arts|

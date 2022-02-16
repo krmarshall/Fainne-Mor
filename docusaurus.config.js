@@ -2,6 +2,7 @@
 // Note: type annotations allow type checking and IDEs autocompletion
 /* eslint-disable @typescript-eslint/no-var-requires */
 /* eslint-disable no-undef */
+const buildData = require('./build.json');
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
@@ -66,7 +67,7 @@ const config = {
           { to: '/changelogs', label: 'Changelogs', position: 'left' },
           {
             href: 'https://github.com/krmarshall/Fainne-Mor',
-            label: 'GitHub',
+            label: `Version ${buildData.buildMajor}.${buildData.buildMinor}.${buildData.buildRevision}`,
             position: 'right',
           },
         ],
