@@ -33,9 +33,9 @@ Training can be broken up between multiple downtimes, it is your responsibility 
 #### Available Training Options
 | Training Goal | Time Required |
 | --- | --- |
-| Language, Tool, Skill | 10 Workweeks |
-| Weapon | 5 Workweeks |
-| Expertise | 25 Workweeks |
+| Language, Tool, or Skill Proficiency | 10 Workweeks |
+| Weapon Proficiency | 5 Workweeks |
+| Expertise in a Proficient Skill | 25 Workweeks |
 | Feat (See Options Below) | 25 Workweeks |
 
 #### Available Feats for Training
