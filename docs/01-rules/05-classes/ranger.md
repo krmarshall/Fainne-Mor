@@ -3,7 +3,7 @@ title: Ranger
 ---
 
 ## Changed
-## Archetypal Ranger Conclave
+## Iconic Ranger Conclave
 At 3rd level, you choose to emulate the ideals and training of a ranger conclave. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level. **In addition to your choice you can also choose to be part of either the Hunter or Beast Master (Use Tasha's Primal Companion Feature) conclave. You gain all of that conclaves respective features at the appropriate levels.**
 
 ### Spells Known of 1st Level and Higher

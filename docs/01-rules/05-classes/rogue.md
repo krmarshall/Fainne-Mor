@@ -3,7 +3,7 @@ title: Rogue
 ---
 
 ## Changed
-### Exemplary Roguish Archetype
+### Iconic Roguish Archetype
 At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level. **In addition to your choice you can also choose to embrace one of the following archetypes: Thief, Scout, or Mastermind. You gain all of that archetypes respective features at the appropriate levels.**
 
 ## Added
