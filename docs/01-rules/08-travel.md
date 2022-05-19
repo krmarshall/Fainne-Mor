@@ -20,7 +20,7 @@ Travel is tracked in days and hexes. One set of rolls is made per day, and a num
 ### Sleeping in the Wild
 Whenever you sleep in the wilderness, you cannot benefit from a long rest. This includes somewhere temporary like a cave or tent, or other squalid conditions. Long rests require at least poor conditions: safe and comfortable places like a wizard’s tower, a permanent and maintained treehouse, or a secure room safe from the weather and wandering monsters.
 
-For more comprehensive rules on resting see [here](./06-resting.md).
+For more comprehensive rules on resting see [here](./07-resting.md).
 
 
 
