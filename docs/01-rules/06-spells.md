@@ -24,7 +24,7 @@ You touch a willing creature. Until the spell ends, the target’s skin has a ro
 
 
 ## Find Traps
-**Change:** Increase duration
+**Change:** Increased duration
 
 Source: Player's Handbook
 
@@ -48,7 +48,7 @@ This spell merely reveals that a trap is present. You don’t learn the location
 
 
 ## Prayer of Healing
-**Change:** Cast time due to short rest changes
+**Change:** Lowered cast time due to short rest changes
 
 Source: Player's Handbook
 
@@ -71,7 +71,7 @@ Up to six creatures of your choice that you can see within range each regain hit
 
 
 ## Catnap
-**Change:** Cast time due to short rest changes
+**Change:** Lowered cast time due to short rest changes
 
 Source: Xanathar's Guide to Everything
 

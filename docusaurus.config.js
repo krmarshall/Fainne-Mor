@@ -18,6 +18,7 @@ const config = {
   favicon: 'img/logos/favicon.ico',
   organizationName: 'krmarshall', // Usually your GitHub org/user name.
   projectName: 'Fainne-Mor', // Usually your repo name.
+  noIndex: true,
 
   presets: [
     [
@@ -47,7 +48,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      hideableSidebar: true,
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
+      },
       colorMode: {
         defaultMode: 'dark',
       },
