@@ -7,7 +7,7 @@ title: Welcome to Fainne Mor
 
 This campaign features some homebrew rules mainly to mitigate some of the issues and balance that have cropped up in 5e over the years. Also listed are explicitly allowed source materials and variant rules. If you cant find the answers to anything just shoot me a message.
 
-### [Setting Details](/docs/setting/placeholder)
+### [Setting Details](/docs/setting/fainneMor)
 
 This campaign is placed in a custom setting heavily inspired by Warhammer 40k, The Rise of Endymion by Dan Simmons, and Warhammer Fantasy. See details about the world, factions, its history, maps, and more.
 

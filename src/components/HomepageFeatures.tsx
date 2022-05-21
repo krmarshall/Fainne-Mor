@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Setting Details',
     image: '/img/undraw_explore_re_8l4v.svg',
-    href: '/docs/setting/placeholder',
+    href: '/docs/setting/fainneMor',
     description: <>Explore the settings lore, check out maps, and more.</>,
   },
 ];
