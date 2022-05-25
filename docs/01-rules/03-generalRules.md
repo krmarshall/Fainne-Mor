@@ -59,6 +59,9 @@ They do not know for certain however, and will still err on the side of caution.
 ### Helping
 To help another character with a skill check, you must be proficient in the skill they are using.
 
+### Unknown Ability Checks
+In scenarios where your character may not know how well they have succeeded in a skill check (for eg. solo stealth or perception checks) the DM may ask for an Unknown Check. The player rolls 4d20 plus any relevant bonuses and numbers the resulting rolls 1-4. The DM discretely rolls a d4, for a standard ability check the dm takes the numbered d20 matching their d4 roll. For advantage/disadvantage rolls they take the highest/lowest of 1/2 or 3/4 based on their d4 roll. For example, a player makes a modified stealth check of 22 7 10 15 with advantage, the dm rolls a 3 so they take the highest of 10/15, which is 15. This gives the player a decent idea of how well they did, without knowing exactly so its easier not to metagame "I rolled poorly so won't carry through with my previous plan".
+
 ### Passive Checks (Taking 10)
 Passive checks are not only for "always on" senses like perception and insight, but also to determine your typical aptitude at a task when not under pressure. In low pressure situations where you could safely attempt something multiple times, you can "take 10" instead of rolling a d20 for the check, adding your modifiers as normal (and adding or subtracting 5 if you have advantage or disadvantage). If taking 10 wouldn't give you a high enough result, you can roll the d20 instead. This is true for any ability check.
 
