@@ -35,6 +35,8 @@ Training can be broken up between multiple downtimes, it is your responsibility 
 | --- | --- |
 | Language, Tool, or Skill Proficiency | 10 Workweeks |
 | Weapon Proficiency | 5 Workweeks |
+| Retrain (swap) a Language, Tool, Skill, or Weapon Proficiency | 2 Workweeks |
+| Retrain (swap) a Cantrip or Known Spell | 2 Workweeks |
 | Expertise in a Proficient Skill | 25 Workweeks |
 | Feat (See Options Below) | 25 Workweeks |
 

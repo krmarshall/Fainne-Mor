@@ -7,6 +7,7 @@ title: Allowed/Banned Material
 - Xanathar's Guide to Everything
 - Tasha's Cauldron of Everything
 - Sword Coast Adventure Guide
+- Monsters of the Multiverse
 
 ### Ask Me
 - Guildmasters Guide to Ravnica (Items)
