@@ -28,7 +28,7 @@ title: Feats
 - **Changed**: Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to subtract your proficiency bonus from the attack roll. If that attack hits, you add twice your proficiency bonus to the attack's damage.
 
 ### Keen Mind
-**Change**: The whole feat is rewritten as follows:
+**Changed**: The whole feat is rewritten as follows:
 - You are able to concentrate on two effects (such as spells) at once. Only one of the effects can be a spell of 3rd level or higher. If you would make a saving throw to maintain concentration while concentrating on two effects, roll once with disadvantage. On a failure, both effects are lost.
 - You always know which way is north.
 - You always know the number of hours left before the next sunrise or sunset.
@@ -41,7 +41,7 @@ title: Feats
 - You have advantage on saving throws against spells cast by creatures within 5 feet of you.
 
 ### Savage Attacker
-**Change**: The whole feat is rewritten as follows:
+**Changed**: The whole feat is rewritten as follows:
 - Increase your Strength or Dexterity score by 1, to a maximum of 20.
 - The critical hit range of your weapon attacks increases by 1.
 
@@ -49,6 +49,13 @@ title: Feats
 - Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
 - Your ranged weapon attacks ignore half and three-quarters cover.
 - **Changed**: Before you make an attack with a ranged weapon that you are proficient with, you can choose to subtract your proficiency bonus from the attack roll. If that attack hits, you add twice your proficiency bonus to the attack's damage.
+
+### Shield Master
+You use shields not just for protection but also for offense. You gain the following benefits while you are wielding a shield:
+
+- **Changed:** If you take the Attack action on your turn, you can use a bonus action to try to shove a creature within 5 feet of you with your shield. **You can use this bonus action upon declaring an attack, but before making any attacks.**
+- If you aren't incapacitated, you can add your shield's AC bonus to any Dexterity saving throw you make against a spell or other harmful effect that targets only you.
+- If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.
 
 ### Skulker
 *Prerequisite: Dexterity 13 or higher*
