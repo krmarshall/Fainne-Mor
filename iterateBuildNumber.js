@@ -1,4 +1,5 @@
-import fs from 'fs';
+// eslint-disable-next-line @typescript-eslint/no-var-requires, no-undef
+const fs = require('fs');
 
 fs.readFile('./build.json', function (err, content) {
   if (err) throw err;
